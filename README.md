@@ -2,7 +2,8 @@
 
 Sou Isabelle, formado em Análise e Desenvolvimento de Sistemas e atualmente professor e coordenador do curso técnico de Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimento e resolver desafios tecnológicos, com experiência em Python, PHP, JavaScript e outras ferramentas. Fique à vontade para me encontrar nas redes sociais:
 
-[![Linkedin Badge: https://www.linkedin.com/in/isabelle-casemiro/
+[![Linkedin Badge](https://img.shields.io/badge/-isabelle-casemiro%20isabelle-casemiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelle-casemiro/)](https://www.linkedin.com/in/isabelle-casemiro/)
+
 
 ---
 
